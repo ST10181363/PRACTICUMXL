@@ -397,3 +397,33 @@ class Main_Screen : AppCompatActivity() {
         }
     }
 }
+
+This is the psueodocode
+0.	START
+//Declerations
+StringDay
+IntegerMin
+IntegerMax
+StringWeatherConditions
+
+1.	Output
+“Please enter the weather Conditions”
+2.	Input
+if Monday =<12 then 
+print “Sunny”
+ 	if Tuesday =<15 then 
+ 	print “Sunny”
+ 		If Wednesday =< 17 then
+  		print ‘Raining”
+  			If Thursday =<10 then
+  			Print “Raining”
+		If Friday =<09 then
+ 		print “Cold”
+	If Saturday =<10 THEN
+	print “Raining”
+If Sunday =<10 then
+Print “Cold”
+
+EndIf
+3.	End
+
